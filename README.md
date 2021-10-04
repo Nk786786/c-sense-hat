@@ -1,6 +1,6 @@
-# Raspberry Pi Sense-HAT add-on board
+# Raspberry Pi Sense-HAT add-on board.
 
-### C language demonstration code
+### C language demonstration code.
 
 ### Tested with: Raspbian GNU/Linux 10 (buster) / Raspberry Pi 3 B+
 
